@@ -1,0 +1,25 @@
+body{
+    font-family: Arial;
+}
+
+/*table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 0.5em;
+}*/
+
+.rub {
+    border: 1px solid fuchsia;
+}
+
+#login-panel {
+    background-color: #ccc;
+    text-align: center;
+    width: 18em;
+    border-radius: 24px;
+    margin: 0 auto;
+}
